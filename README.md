@@ -41,7 +41,7 @@ This repository contains a practical and optimized template for front-end projec
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/amabilee/reactjs-vite-docker-starter>
+   git clone https://github.com/amabilee/reactjs-vite-docker-starter
    ```
 
 2. Navigate to the project directory:
